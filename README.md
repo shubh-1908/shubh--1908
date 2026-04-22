@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubh-1908/shubh-1908/main/IMG20240228144619~2.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/shubh-1908/shubh-1908/main/IMG20240228144619~2.jpg" width="300" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Shubham Borse!</h1>
@@ -51,4 +51,3 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
